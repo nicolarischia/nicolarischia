@@ -16,7 +16,7 @@ I'm **Nicola Rischia**, an Italian IT student with a strong foundation in backen
 - 🌟 **HTML**, **CSS**, **JavaScript** (base)
 
 ### 💻 Programming Languages & Concepts
-- 🅲 **C** (concurrent programming)
+- ⚙️ **C** (concurrent programming)
 - ☕ **Java** (object-oriented programming, Swing GUI)
 
 ### 🌐 Networking
