@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**nicolarischia/nicolarischia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Nicola Rischia**, an Italian IT student with a strong foundation in backend development, frontend technologies, networking, web design, and programming fundamentals.
 
-Here are some ideas to get you started:
+## 💼 Skills & Technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🖥️ Backend Development
+- 🟨 **Node.js** with **Express.js**
+- 🍃 **MongoDB** NoSQL Databases
+- 🧩 **EasyPHP** SQL Databases
+- 🐍 **Python** (general programming, scripting)
+
+### 🎨 Frontend Development
+- ⚛️ **React** with **Vite**
+- 🅰️ **Angular** and **Angular Material**
+- 🌟 **HTML**, **CSS**, **JavaScript** (base)
+
+### 💻 Programming Languages & Concepts
+- 🅲 **C** (concurrent programming)
+- ☕ **Java** (object-oriented programming, Swing GUI)
+
+### 🌐 Networking
+- 🛜 **Cisco Packet Tracer** (basic routing, switching, subnetting)
+
+### 🌍 Website Building
+- 🧱 **Wix** (no-code/low-code web design)
+
+🔗 [My website](https://yourwebsite.com) *(currently under construction)*
