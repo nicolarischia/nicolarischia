@@ -1,3 +1,5 @@
+![Curriculum Vitae](nicolarischia_cv.png)
+
 # Hi there 👋
 
 I'm **Nicola Rischia**, an Italian IT student with a strong foundation in backend development, frontend technologies, networking, web design, and programming fundamentals.
