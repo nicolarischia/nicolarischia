@@ -28,6 +28,8 @@ I'm **Nicola Rischia**, an Italian IT student with a strong foundation in backen
 ### 📃 Forms and Data
 - 📝 **Jotform** for dynamic and responsive form creation
 - 📊 **Airtable** for structured data management and form integration
+- 🗃️ **JSON**
+- 📚 **XML / XSD**
 
 ---
 
